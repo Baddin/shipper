@@ -5,7 +5,6 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
-
 	pb "github.com/baddin/shipper/consignment-service/proto/consignment"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
